@@ -117,3 +117,41 @@ h1 {
 .projects--button:hover {
   box-shadow: rgba(20, 20, 20, 0.5) 0 6px 8px;
 }
+
+.project {
+  width: 850px;
+  height: 500px;
+  border-style: solid;
+  align-self: center;
+  align-items: center;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+}
+.project--title {
+  font-size: 2rem;
+  font-weight: bold;
+}
+.project--info {
+  border-style: solid;
+  width: 820px;
+  height: 425px;
+  display: flex;
+  justify-content: space-between;
+}
+.project--pic {
+  height: 350px;
+  width: 425px;
+}
+.project--details {
+  height: 350px;
+  width: 380px;
+  border-style: solid;
+}
+.project--links {
+  width: 150px;
+  border-style: solid;
+  display: flex;
+  justify-content: space-between;
+}
