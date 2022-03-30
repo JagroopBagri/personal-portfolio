@@ -4,12 +4,12 @@ function Intro() {
   return (
     <div className="intro">
       <div className="bold-intro">
-        Software Developer based in Northern California
+        A Software Developer passionate about bringing dreams to code
       </div>
       <div className="skills">
         Experienced in JavaScript, ReactJS, Node.js, HTML, & CSS
       </div>
-      <button className="projects">View Projects</button>
+      <button className="projects--button">View Projects</button>
     </div>
   );
 }

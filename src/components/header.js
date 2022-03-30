@@ -9,8 +9,8 @@ function Header() {
         <h1>Jagroop Bagri</h1>
       </div>
       <div className="personal-links">
-        <p>LinkedIn</p>
-        <p>GitHub</p>
+        <p className="personal-link">LinkedIn</p>
+        <p className="personal-link">GitHub</p>
       </div>
     </div>
   );
