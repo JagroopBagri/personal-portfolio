@@ -5,7 +5,7 @@ function Header() {
   return (
     <div className="header">
       <div className="brand">
-        <img src={logo} alt="logo" />
+        <img className="logo" src={logo} alt="logo" />
         <h1>Jagroop Bagri</h1>
       </div>
       <div className="personal-links">
