@@ -9,7 +9,6 @@ function Intro() {
       <div className="skills">
         Experienced in JavaScript, ReactJS, Node.js, HTML, & CSS
       </div>
-      <button className="projects--button">View Projects</button>
     </div>
   );
 }
