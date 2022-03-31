@@ -5,7 +5,7 @@ import weatherApp from './images/weather-app.png';
 import calculator from './images/calculator.png';
 import todo from './images/todo-app.png';
 import etch from './images/etch.png';
-import portfolio from './images/portfolio.png';
+import portfolio from './images/personal-portfolio.png';
 
 function App() {
   return (
