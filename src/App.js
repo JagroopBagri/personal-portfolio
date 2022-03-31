@@ -5,6 +5,7 @@ import weatherApp from './images/weather-app.png';
 import calculator from './images/calculator.png';
 import todo from './images/todo-app.png';
 import etch from './images/etch.png';
+import portfolio from './images/portfolio.png';
 
 function App() {
   return (
@@ -27,6 +28,14 @@ function App() {
         repo="https://github.com/JagroopBagri/to-do-list"
         summary="A To-Do app made with vanilla JavaScript and incorporates the use of local storage, so that the users list is saved on their device. Date-fns library was used to simplify the due dates."
         technology="JavaScript, HTML, CSS, Date-fns, Webpack"
+      />
+      <Project
+        title="Personal Portfolio"
+        image={portfolio}
+        link="https://jagroopbagri.github.io/personal-portfolio/"
+        repo="https://github.com/JagroopBagri/personal-portfolio"
+        summary="A personal portfolio website made using ReactJS and JavaScript."
+        technology="JavaScript, ReactJS, HTML, CSS"
       />
       <Project
         title="Calculator"

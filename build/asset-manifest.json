@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.3ac4f647.css",
-    "main.js": "/static/js/main.1cec9d4d.js",
-    "static/media/background-image2.jpg": "/static/media/background-image2.3e3d497fd7188cc238fe.jpg",
-    "static/media/weather-app.png": "/static/media/weather-app.fd51b8c79fff76f4d7df.png",
-    "static/media/calculator.png": "/static/media/calculator.7ace88b2274c8fa5eaee.png",
-    "static/media/etch.png": "/static/media/etch.ce7f2144cbaa067a71df.png",
-    "static/media/todo-app.png": "/static/media/todo-app.e6b2b3ba96cf1d47fa8e.png",
-    "static/media/initial-logo.jpg": "/static/media/initial-logo.584b9af2a87fcf9aa175.jpg",
-    "index.html": "/index.html",
-    "main.3ac4f647.css.map": "/static/css/main.3ac4f647.css.map",
-    "main.1cec9d4d.js.map": "/static/js/main.1cec9d4d.js.map"
+    "main.css": "/personal-portfolio/static/css/main.9616e9c8.css",
+    "main.js": "/personal-portfolio/static/js/main.095ef022.js",
+    "static/media/background-image2.jpg": "/personal-portfolio/static/media/background-image2.3e3d497fd7188cc238fe.jpg",
+    "static/media/weather-app.png": "/personal-portfolio/static/media/weather-app.fd51b8c79fff76f4d7df.png",
+    "static/media/calculator.png": "/personal-portfolio/static/media/calculator.7ace88b2274c8fa5eaee.png",
+    "static/media/etch.png": "/personal-portfolio/static/media/etch.ce7f2144cbaa067a71df.png",
+    "static/media/todo-app.png": "/personal-portfolio/static/media/todo-app.e6b2b3ba96cf1d47fa8e.png",
+    "static/media/initial-logo.jpg": "/personal-portfolio/static/media/initial-logo.584b9af2a87fcf9aa175.jpg",
+    "index.html": "/personal-portfolio/index.html",
+    "main.9616e9c8.css.map": "/personal-portfolio/static/css/main.9616e9c8.css.map",
+    "main.095ef022.js.map": "/personal-portfolio/static/js/main.095ef022.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ac4f647.css",
-    "static/js/main.1cec9d4d.js"
+    "static/css/main.9616e9c8.css",
+    "static/js/main.095ef022.js"
   ]
 }
