@@ -1,5 +1,4 @@
 {
-  "homepage": "https://jagroopbagri.github.io/personal-portfolio",
   "name": "personal-portfolio",
   "version": "0.1.0",
   "private": true,
@@ -40,5 +39,6 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.3"
-  }
+  },
+  "homepage": "https://jagroopbagri.github.io/personal-portfolio"
 }
