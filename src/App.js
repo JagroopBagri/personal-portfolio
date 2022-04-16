@@ -6,12 +6,22 @@ import calculator from './images/calculator.png';
 import todo from './images/todo-app.png';
 import etch from './images/etch.png';
 import portfolio from './images/personal-portfolio.png';
+import homepage from './images/homepage.png';
 
 function App() {
   return (
     <div className="App">
       <Header />
       <Intro />
+      <Project
+        title="E-Commerce Website"
+        image={homepage}
+        link="https://jagroopbagri.github.io/clothing-store/"
+        repo="https://github.com/JagroopBagri/clothing-store"
+        summary="Clean design of an e-commerce page with shopping-cart capabilities. Learning outcomes: Solidify knowledge and practical use of react hooks and props.
+        Further comprehension of state management and state lifting in React"
+        technology="ReactJS, JavaScript, HTML, CSS, Webpack"
+      />
       <Project
         title="Weather App"
         image={weatherApp}
